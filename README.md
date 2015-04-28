@@ -1,0 +1,2 @@
+# confs
+vim, tmux configurations.
